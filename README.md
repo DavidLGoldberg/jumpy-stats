@@ -1,5 +1,5 @@
 # jumpy-stats
-Sample code to OCR my project's stats inspired by John Ressig's talk on Japanese art that I saw at etsy.
+Sample code to OCR my project's stats inspired by John Resig's talk on Japanese art that I saw at etsy.
 
 ## Background
 I have been saving little cmd-shift-4 mac screenshots of the upper right hand corner of my screen after periodically checking atom.io/packages/jumpy when I'm bored.
