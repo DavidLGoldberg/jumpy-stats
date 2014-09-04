@@ -1,0 +1,25 @@
+{
+  "name": "jumpy-stats",
+  "version": "0.0.0",
+  "description": "Sample code to OCR my project's stats inspired by John Resig's talk on Japanese art that I saw at etsy.",
+  "main": "ocr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DavidLGoldberg/jumpy-stats.git"
+  },
+  "keywords": [
+    "OCR"
+  ],
+  "author": "David L. Goldberg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidLGoldberg/jumpy-stats/issues"
+  },
+  "homepage": "https://github.com/DavidLGoldberg/jumpy-stats",
+  "dependencies": {
+    "nodecr": "0.0.5"
+  }
+}
