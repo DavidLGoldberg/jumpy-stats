@@ -24,5 +24,5 @@ npm install nodecr
 
 ## Run ocr utility on an image
 ```
-node ocr.js <path-to-image>
+./ocr.coffee <path-to-image>
 ```
