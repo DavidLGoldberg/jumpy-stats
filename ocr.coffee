@@ -6,6 +6,6 @@ nodecr = require("nodecr")
 nodecr.process process.argv[2], (err, text) ->
     if err
         console.error err
-    else
-        console.log text
-    return
+        return
+
+    console.log text
